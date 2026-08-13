@@ -9,9 +9,9 @@
     </td>
     <!-- Right Column: Profile Header Info -->
     <td width="40%" valign="top"> 
-      <p> ${\textsf{\color{#b49ea0}   ⊹　𝐌UALANI}}$ ${\textsf{\color{#aa9396}  ou}}$ ${\textsf{\color{#9d8487}  𝓢AE}}$
-      <p> ${\textsf{\color{#91767b}  19yo}}$ ${\textsf{\color{#7a5c63}  introverted}}$ </p>
-      <p> ${\textsf{\color{#73545a}  taken}}$ ${\textsf{\color{#6d4d53}  hispanic　 ⊹}}$ </p>
+      <p> ${\textsf{\color{#b49ea0}   ⊹　ℒ𝒪}}$ ${\textsf{\color{#aa9396}  ou}}$ ${\textsf{\color{#9d8487}  𝐊𝑁𝑂𝑋}}$
+      <p> ${\textsf{\color{#91767b}  17yo}}$ ${\textsf{\color{#7a5c63}  introverted}}$ </p>
+      <p> ${\textsf{\color{#73545a}  black}}$ ${\textsf{\color{#6d4d53}  bipolar　 ⊹}}$ </p>
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
@@ -19,9 +19,9 @@
   </tr>
     <!-- Right Column: Bottom Status Line --> <td valign="top">
   <details>
-  <summary>i love my frens </summary>
+  <summary>love my shaylas </summary>
   <p> </p>
-  <p> ok hold aawwwn.. knox , kiwi , haven , hime , juju , nini , cairo , miles , gil , eiji , shade , rin , mavis + irls & green names / oomfs on pony town!! </p>
+  <p> lyra , kiwi , haven , juju , hime + green names on pt </p>
     </details>
     </td>
     </td>
@@ -29,9 +29,9 @@
   </tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-ponytown titles that im in!! eek
+ponytown titles that im in
 
-[cool players](https://github.com/pt-players)   [top c+her](https://github.com/pt-walk-of-fame)   [pt's perona](https://github.com/title-town)   [pts shirahoshi](https://github.com/charactersofpt)   [kunalings](https://github.com/pt-friendships)
+n / a
 
   </tr>
 </table>
