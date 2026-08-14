@@ -15,7 +15,7 @@
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
-<a href="https://weltita.atabook.org"> <img src="https://i.postimg.cc/2S72CkzY/image-2026-08-04-022914713.png" alt="ata" width="50"> <a href="https://rentry.co/perolaw"> <img src="https://i.postimg.cc/2jtdYqhB/image-2026-08-04-022817999.png" alt="rentry" width="50"> <a href="https://rentry.co/perolaw"> <img src="https://i.postimg.cc/mr63rhJ5/image-2026-08-04-023002112.png" alt="prns" width="50">
+<a href="https://boyscott.atabook.org"> <img src="https://i.postimg.cc/2S72CkzY/image-2026-08-04-022914713.png" alt="ata" width="50"> <a href="[https://rentry.co/perolaw](https://rentry.co/fleshwvter)"> <img src="https://i.postimg.cc/2jtdYqhB/image-2026-08-04-022817999.png" alt="rentry" width="50"> <a href="[https://rentry.co/perolaw](https://pronouns.cc/@boyscott)"> <img src="https://i.postimg.cc/mr63rhJ5/image-2026-08-04-023002112.png" alt="prns" width="50">
   </tr>
     <!-- Right Column: Bottom Status Line --> <td valign="top">
   <details>
