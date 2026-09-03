@@ -1,5 +1,4 @@
 <img src="https://i.postimg.cc/xCQ378vv/image-2026-08-13-192321665.png" width="900">
-
 <p align="center">
 <table>
   <tr>
@@ -12,6 +11,7 @@
       <p> ${\textsf{\color{#b49ea0}   ⊹　ℒ𝒪}}$ ${\textsf{\color{#aa9396}  ou}}$ ${\textsf{\color{#9d8487}  𝐊𝑁𝑂𝑋}}$
       <p> ${\textsf{\color{#91767b}  17yo}}$ ${\textsf{\color{#7a5c63}  introverted}}$ </p>
       <p> ${\textsf{\color{#73545a}  black}}$ ${\textsf{\color{#6d4d53}  bipolar　 ⊹}}$ </p>
+      <p align="center"> <img src="https://hits.sh/github.com/lokeean.svg?style=flat-plastic&label=stellaron%20hunters&Count=1&color=000000&labelColor=8A575F">
   <tr>
   <!-- Right Column: Small Meme / Sub-image Block -->
     <td valign="top">
