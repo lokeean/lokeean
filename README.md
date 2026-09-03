@@ -31,8 +31,7 @@
     <td valign="top">
 ponytown titles that im in
 
-n / a
-
+[pt's blade](https://github.com/pt-hall-of-media)
   </tr>
 </table>
 <p align="center">
