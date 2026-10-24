@@ -9,7 +9,7 @@
     
 Ɩıŋƙ⳽
 
-[ata](https://yvesst.atabook.org/)ㅤ,ㅤ[pronouns.cc](https://pronouns.cc/)ㅤ,ㅤ[strawpage](https://lovedlokke.straw.page/)
+[ata](https://yvesst.atabook.org/)ㅤ,ㅤ[pronouns.cc](https://pronouns.cc/@lovedlokke)ㅤ,ㅤ[strawpage](https://lovedlokke.straw.page/)
   </tr>
 </table>
 <p align="center">
