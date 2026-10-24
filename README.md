@@ -4,9 +4,7 @@
 <div align="center">
 <p align="center">
   <p align="center"> <img src="https://hits.sh/github.com/lokeean.svg?style=flat-plastic&label=bullets%20&Count=1&color=000000&labelColor=ad868a"> <img src="https://file.garden/aD-jsL8SzQvp8mjK/Untitled21_20261024145837.png" alt="ata" width="50">
-      <p align="center"> 
-        <p align="center">
-  <img src="https://file.garden/aD-jsL8SzQvp8mjK/image_2026-10-16_123318674.png" width="650">
+<p align="center">
     <td valign="right">
     
 Ɩıŋƙ⳽
